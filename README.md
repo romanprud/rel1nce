@@ -20,8 +20,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rel1nce&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rel1nce&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rel1nce&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
