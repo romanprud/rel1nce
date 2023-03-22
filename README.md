@@ -20,8 +20,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-stats-omega-three-17.vercel.app/api?username=rel1nce&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rel1nce&theme=dark&mode=weekly)](https://git.io/streak-stats)
 <br><br>
-[![Top Langs](https://github-readme-stats-omega-three-17.vercel.app/api/top-langs/?username=rel1nce&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-omega-three-17.vercel.app/api/top-langs/?username=rel1nce&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
