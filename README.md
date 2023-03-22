@@ -20,7 +20,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rel1nce&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-omega-three-17.vercel.app/api?username=rel1nce&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 <br><br>
+[![Top Langs](https://github-readme-stats-omega-three-17.vercel.app/api/top-langs/?username=rel1nce&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
